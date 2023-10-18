@@ -10,7 +10,7 @@ HTML: Markup language for creating the structure of the calculator
 CSS: Stylesheet language for designing the visual appearance of the calculator
 React: JavaScript library for building user interfaces and handling calculator logic
 ## Installation
-Clone the repository: git clone https://github.com/your-repo-url.git
+Clone the repository: git clone (https://github.com/AbrahamKiplagat/Calculator-App.git)
 Navigate to the project directory: cd calculator-app
 Install dependencies: npm install
 Start the development server: npm start
@@ -29,10 +29,10 @@ Once deployed, users can access the calculator by visiting the provided URL.
 ## License
 This calculator application is open-source and released under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
 
-Contributing
+## Contributing
 Contributions to this calculator project are welcome. If you find any issues or have suggestions for improvements, please create a pull request or open an issue on the project repository.
 
-Acknowledgments
+## Acknowledgments
 The calculator application was created as a learning project and was inspired by various online resources and tutorials.
-Contact
-For any questions or inquiries, please contact [your-name] at [your-email].
+## Contact
+For any questions or inquiries, please contact [Abraham] at [kurerelagat01@gmail.com].
