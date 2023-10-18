@@ -1,0 +1,24 @@
+/* ParentComponent.css */
+.parent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 200px;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.child1 {
+  flex: 1;
+  background-color: #ff9999;
+}
+
+.child2 {
+  flex: 2;
+  background-color: #99ff99;
+}
+
+.child3 {
+  flex: 1;
+  background-color: #9999ff;
+}
